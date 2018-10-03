@@ -1,2 +1,2 @@
 # Summer-2012-Learning-Project
-simulation using feedforward neural networks
+see https://www.youtube.com/watch?v=VpUhnLqkHA8
